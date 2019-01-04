@@ -1,0 +1,190 @@
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\Analisatorer.exe.config
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\Analisatorer.exe
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\Analisatorer.pdb
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Charting.dll
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Core.dll
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Data.dll
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Drawing.dll
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Charting.xml
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Core.xml
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Data.xml
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Drawing.xml
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\obj\Debug\App.g.cs
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer_MarkupCompile.cache
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer_MarkupCompile.lref
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer.g.resources
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer.Properties.Resources.resources
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer.exe
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer.pdb
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\log4net.dll
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\MahApps.Metro.dll
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Wpf.UI.Bootstrap.dll
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Wpf.UI.dll
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Wpf.UI.Reactive.dll
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Wpf.UI.Transitionz.dll
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.Core.dll
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.Linq.dll
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\log4net.xml
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\MahApps.Metro.pdb
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\MahApps.Metro.xml
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Wpf.UI.xml
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Wpf.UI.Bootstrap.xml
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Wpf.UI.Reactive.xml
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Wpf.UI.Transitionz.xml
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.Core.xml
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.Linq.xml
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\DataLoading.dll
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\TradingLib.dll
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\EPPlus.dll
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\DataLoading.pdb
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\TradingLib.pdb
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\TradeIndicators(1)\Analisatorer\bin\Debug\EPPlus.xml
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\Analisatorer.exe.config
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\Analisatorer.exe
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\Analisatorer.pdb
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\DataLoading.dll
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\log4net.dll
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\MahApps.Metro.dll
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\Microsoft.Practices.Unity.dll
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Charting.dll
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Core.dll
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Data.dll
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Drawing.dll
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Wpf.UI.Bootstrap.dll
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Wpf.UI.dll
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Wpf.UI.Reactive.dll
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Wpf.UI.Transitionz.dll
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.Core.dll
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.Interfaces.dll
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.Linq.dll
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.PlatformServices.dll
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.Windows.Threading.dll
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\System.Windows.Interactivity.dll
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\TradingLib.dll
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\Newtonsoft.Json.dll
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\EPPlus.dll
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\DataLoading.pdb
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\DataLoading.dll.config
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\TradingLib.pdb
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\TradingLib.dll.config
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\log4net.xml
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\MahApps.Metro.pdb
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\MahApps.Metro.xml
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\Microsoft.Practices.Unity.xml
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Charting.xml
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Core.xml
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Data.xml
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Drawing.xml
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Wpf.UI.xml
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Wpf.UI.Bootstrap.xml
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Wpf.UI.Reactive.xml
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Wpf.UI.Transitionz.xml
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.Core.xml
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.Interfaces.xml
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.Linq.xml
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.PlatformServices.xml
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.Windows.Threading.xml
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\Newtonsoft.Json.xml
+D:\3 Year\TradeIndicators(1)\Analisatorer\bin\Debug\EPPlus.xml
+D:\3 Year\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer.csprojAssemblyReference.cache
+D:\3 Year\TradeIndicators(1)\Analisatorer\obj\Debug\MainWindow.g.cs
+D:\3 Year\TradeIndicators(1)\Analisatorer\obj\Debug\App.g.cs
+D:\3 Year\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer_MarkupCompile.cache
+D:\3 Year\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer_MarkupCompile.lref
+D:\3 Year\TradeIndicators(1)\Analisatorer\obj\Debug\MainWindow.baml
+D:\3 Year\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer.g.resources
+D:\3 Year\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer.Properties.Resources.resources
+D:\3 Year\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer.csproj.GenerateResource.cache
+D:\3 Year\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer.csproj.CoreCompileInputs.cache
+D:\3 Year\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer.csproj.CopyComplete
+D:\3 Year\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer.exe
+D:\3 Year\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer.pdb
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\Analisatorer.exe.config
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer.exe
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer.pdb
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\Analisatorer.exe
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\Analisatorer.pdb
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\DataLoading.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\log4net.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\MahApps.Metro.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Charting.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Core.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Data.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Drawing.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Wpf.UI.Bootstrap.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Wpf.UI.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Wpf.UI.Reactive.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Wpf.UI.Transitionz.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.Core.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.Linq.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\TradingLib.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\EPPlus.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\DataLoading.pdb
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\TradingLib.pdb
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\log4net.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\MahApps.Metro.pdb
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\MahApps.Metro.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Charting.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Core.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Data.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Drawing.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Wpf.UI.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Wpf.UI.Bootstrap.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Wpf.UI.Reactive.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\SciChart.Wpf.UI.Transitionz.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.Core.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.Linq.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\bin\Debug\EPPlus.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\obj\Debug\App.g.cs
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer_MarkupCompile.cache
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer_MarkupCompile.lref
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer.g.resources
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer.Properties.Resources.resources
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\Analisatorer\obj\Debug\Analisatorer.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\IndicatorCalculator\Analisatorer\bin\Debug\Analisatorer.exe.config
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\IndicatorCalculator\Analisatorer\obj\Debug\Analisatorer.exe
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\IndicatorCalculator\Analisatorer\obj\Debug\Analisatorer.pdb

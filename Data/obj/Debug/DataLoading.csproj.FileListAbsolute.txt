@@ -1,0 +1,450 @@
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\DataLoading.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\DataLoading.pdb
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\EPPlus.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\EPPlus.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\obj\Debug\DataLoading.csprojAssemblyReference.cache
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\obj\Debug\DataLoading.csproj.CoreCompileInputs.cache
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\obj\Debug\DataLoading.csproj.CopyComplete
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\obj\Debug\DataLoading.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\obj\Debug\DataLoading.pdb
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\DataLoading.dll.config
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\netstandard.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.AppContext.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Collections.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.ComponentModel.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Console.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Data.Common.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Globalization.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.IO.Compression.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.IO.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.IO.Pipes.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Linq.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Net.Http.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Net.Ping.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Net.Primitives.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Net.Requests.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Net.Security.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Net.Sockets.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.ObjectModel.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Reflection.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Resources.Reader.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Resources.Writer.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Runtime.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Security.Claims.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Security.Principal.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Security.SecureString.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Text.Encoding.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Threading.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Threading.Thread.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Threading.Timer.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.ValueTuple.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Xml.XPath.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\CsvHelper.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Flurl.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Flurl.Http.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\StooqApi.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Trady.Analysis.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Trady.Core.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Trady.Importer.Csv.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Trady.Importer.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Trady.Importer.Stooq.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Trady.Importer.Yahoo.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\YahooFinanceApi.dll
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\CsvHelper.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Flurl.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Flurl.Http.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.pdb
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Microsoft.CodeAnalysis.Scripting.pdb
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Microsoft.CodeAnalysis.Scripting.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Nikolai\source\repos\TradeIndicators\DataLoading\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\DataLoading.dll.config
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\DataLoading.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\DataLoading.pdb
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\CsvHelper.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\EPPlus.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Flurl.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Flurl.Http.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\StooqApi.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.AppContext.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.Collections.Immutable.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.Console.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.IO.Compression.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.IO.FileSystem.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.Threading.Thread.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.Xml.XPath.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Trady.Analysis.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Trady.Core.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Trady.Importer.Csv.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Trady.Importer.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Trady.Importer.Stooq.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Trady.Importer.Yahoo.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\YahooFinanceApi.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\CsvHelper.xml
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\EPPlus.xml
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Flurl.xml
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Flurl.Http.xml
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.pdb
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.Scripting.pdb
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.Scripting.xml
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.Collections.Immutable.xml
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\obj\Debug\DataLoading.dll
+C:\Users\User\Desktop\TradeIndicators(1)\DataLoading\obj\Debug\DataLoading.pdb
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\DataLoading.dll.config
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\DataLoading.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\DataLoading.pdb
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\netstandard.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.AppContext.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Collections.Concurrent.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Collections.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Collections.NonGeneric.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Collections.Specialized.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.ComponentModel.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.ComponentModel.Primitives.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Console.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Data.Common.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Diagnostics.Contracts.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Diagnostics.Debug.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Diagnostics.Process.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Diagnostics.Tools.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Diagnostics.Tracing.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Drawing.Primitives.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Dynamic.Runtime.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Globalization.Calendars.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Globalization.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Globalization.Extensions.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.IO.Compression.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.IO.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.IO.FileSystem.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.IO.IsolatedStorage.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.IO.Pipes.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Linq.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Linq.Expressions.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Linq.Parallel.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Linq.Queryable.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Net.Http.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Net.NameResolution.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Net.NetworkInformation.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Net.Ping.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Net.Primitives.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Net.Requests.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Net.Security.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Net.Sockets.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Net.WebSockets.Client.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Net.WebSockets.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.ObjectModel.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Reflection.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Reflection.Extensions.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Reflection.Primitives.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Resources.Reader.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Resources.ResourceManager.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Resources.Writer.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Runtime.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Runtime.Extensions.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Runtime.Handles.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Runtime.InteropServices.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Runtime.Numerics.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Security.Claims.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Security.Principal.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Security.SecureString.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Text.Encoding.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Text.RegularExpressions.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Threading.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Threading.Overlapped.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Threading.Tasks.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Threading.Thread.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Threading.ThreadPool.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Threading.Timer.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.ValueTuple.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Xml.ReaderWriter.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Xml.XDocument.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Xml.XmlDocument.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Xml.XmlSerializer.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Xml.XPath.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\CsvHelper.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\EPPlus.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Flurl.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Flurl.Http.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.Scripting.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.Options.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Newtonsoft.Json.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\StooqApi.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Collections.Immutable.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Reflection.Metadata.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Reflection.TypeExtensions.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Trady.Analysis.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Trady.Core.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Trady.Importer.Csv.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Trady.Importer.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Trady.Importer.Stooq.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Trady.Importer.Yahoo.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\YahooFinanceApi.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\CsvHelper.xml
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\EPPlus.xml
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Flurl.xml
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Flurl.Http.xml
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.pdb
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.xml
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.pdb
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.Scripting.pdb
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.Scripting.xml
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.Options.xml
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\Newtonsoft.Json.xml
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Collections.Immutable.xml
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Reflection.Metadata.xml
+D:\3 Year\TradeIndicators(1)\DataLoading\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3 Year\TradeIndicators(1)\DataLoading\obj\Debug\DataLoading.csprojAssemblyReference.cache
+D:\3 Year\TradeIndicators(1)\DataLoading\obj\Debug\DataLoading.csproj.CoreCompileInputs.cache
+D:\3 Year\TradeIndicators(1)\DataLoading\obj\Debug\DataLoading.csproj.CopyComplete
+D:\3 Year\TradeIndicators(1)\DataLoading\obj\Debug\DataLoading.dll
+D:\3 Year\TradeIndicators(1)\DataLoading\obj\Debug\DataLoading.pdb
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\DataLoading.dll.config
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\DataLoading.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\DataLoading.pdb
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\CsvHelper.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\EPPlus.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Flurl.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Flurl.Http.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\StooqApi.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.AppContext.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.Collections.Immutable.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.Console.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.IO.Compression.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.IO.FileSystem.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.Threading.Thread.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.Xml.XPath.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Trady.Analysis.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Trady.Core.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Trady.Importer.Csv.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Trady.Importer.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Trady.Importer.Stooq.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Trady.Importer.Yahoo.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\YahooFinanceApi.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\netstandard.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\CsvHelper.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\EPPlus.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Flurl.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Flurl.Http.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.pdb
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.Scripting.pdb
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.CodeAnalysis.Scripting.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.Collections.Immutable.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\obj\Debug\DataLoading.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\obj\Debug\DataLoading.dll
+C:\Users\User\Desktop\TradeIndicatorsFinalVersion\TradeIndicators(1)\DataLoading\obj\Debug\DataLoading.pdb
